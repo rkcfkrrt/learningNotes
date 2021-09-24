@@ -1,2 +1,1 @@
-# amplifyapp
-Amplifyapp demo
+存放一些網頁開發學習筆記。
